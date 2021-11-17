@@ -1,5 +1,6 @@
 # talk-FE
 前端杂谈：记录前端中的趣事、前端管理、前端新技术等
+author: brightLian
 
 启动方式：
 - 获取代码：git clone https://github.com/brightLian/talk-FE
