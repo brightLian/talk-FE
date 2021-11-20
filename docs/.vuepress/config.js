@@ -25,36 +25,7 @@ module.exports = {
     ],
     sidebar: [
       '/introduction.md',
-      {
-        text: '2021年',
-        collapsable: true,
-        sidebarDepth: 2,
-        children: [
-          {
-            text: '2021年11月',
-            link: '/2021/Nov.md'
-          },
-          {
-            text: '2021年12月',
-            link: '/2021/Dec.md'
-          }
-        ]
-      },
-      {
-        text: '2022年',
-        collapsable: true,
-        sidebarDepth: 2,
-        children: [
-          {
-            text: '2022年1月',
-            link: '/2022/Jan.md'
-          },
-          {
-            text: '2022年2月',
-            link: '/2022/Feb.md'
-          }
-        ]
-      },
+      '/向历史学管理.md'
     ],
     sidebarDepth: 2,
   },
