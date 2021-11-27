@@ -25,7 +25,8 @@ module.exports = {
     ],
     sidebar: [
       '/introduction.md',
-      '/向历史学管理.md'
+      '/向历史学管理.md',
+      '/人生自我管理.md'
     ],
     sidebarDepth: 2,
   },
